@@ -1,7 +1,7 @@
 module.exports = {
   title: "nfeng-ui-vue文档",
   description: "基于antd二次开发配置化ui库",
-  base: "/nfeng-ui-vue/", 
+  base: "/nfeng-ui-vue/",
   port: 9000,
   themeConfig: {
     nav: [
